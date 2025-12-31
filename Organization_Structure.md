@@ -180,16 +180,16 @@ Vice Chancellor
 
 ## Roles and Responsibilities Matrix
 
-| Role | System Ownership | Policy Setting | Daily Operations | Technical Support |
-|------|-----------------|----------------|------------------|-------------------|
-| Deputy VC (Academic) | Sponsor | Approver | - | - |
-| Dean of Students | Co-Owner | Contributor | Oversight | - |
-| Head of Academic Advising | Primary Owner | Primary | Management | User |
-| Academic Advisors | - | Input | Primary Users | User |
-| Registrar | Data Custodian | Contributor | Data Provider | - |
-| CIO | Technical Owner | IT Policies | - | Oversight |
-| IT Development Team | - | - | System Admin | Primary |
-| Students | - | - | End Users | User |
+| Role                       | System Ownership  | Policy Setting | Daily Operations | Technical Support |
+|:---------------------------|:------------------|:---------------|:-----------------|:------------------|
+| Deputy VC (Academic)       | Sponsor           | Approver       | -                | -                 |
+| Dean of Students           | Co-Owner          | Contributor    | Oversight        | -                 |
+| Head of Academic Advising  | Primary Owner     | Primary        | Management       | User              |
+| Academic Advisors          | -                 | Input          | Primary Users    | User              |
+| Registrar                  | Data Custodian    | Contributor    | Data Provider    | -                 |
+| CIO                        | Technical Owner   | IT Policies    | -                | Oversight         |
+| IT Development Team        | -                 | -              | System Admin     | Primary           |
+| Students                   | -                 | -              | End Users        | User              |
 
 ## Change Management Structure
 
